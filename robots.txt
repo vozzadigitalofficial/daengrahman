@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Link ke Sitemap Anda
+Sitemap: https://vozzadigitalofficial.github.io/daengrahman/sitemap.xml
